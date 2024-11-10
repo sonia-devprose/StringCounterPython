@@ -9,3 +9,4 @@ This repository showcases examples of basic Python concepts, including:
 - Using the **Counter** class from the `collections` module to count and display the frequency of items in a list, with results sorted by frequency.
 
 These examples provide a quick overview of how to define functions, utilize lambdas, manipulate lists, and handle data with Python’s built-in libraries.
+![image](https://github.com/user-attachments/assets/d87578e4-a78f-425d-84e5-bc593d244535)
